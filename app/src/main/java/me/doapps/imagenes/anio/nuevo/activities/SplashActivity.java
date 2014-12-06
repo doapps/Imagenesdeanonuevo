@@ -1,4 +1,4 @@
-package com.doapps.me.meme.activities;
+package me.doapps.imagenes.anio.nuevo.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,8 +6,8 @@ import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
 import android.widget.TextView;
 
-import com.doapps.me.meme.R;
-import com.doapps.me.meme.utils.UtilFonts;
+import me.doapps.imagenes.anio.nuevo.R;
+import me.doapps.imagenes.anio.nuevo.utils.UtilFonts;
 
 /**
  * Created by jonathan on 04/12/2014.

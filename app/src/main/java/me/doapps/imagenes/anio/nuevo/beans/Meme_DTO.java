@@ -1,4 +1,4 @@
-package com.doapps.me.meme.beans;
+package me.doapps.imagenes.anio.nuevo.beans;
 
 import com.parse.ParseClassName;
 import com.parse.ParseObject;

@@ -1,18 +1,16 @@
-package com.doapps.me.meme.activities;
+package me.doapps.imagenes.anio.nuevo.activities;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.doapps.me.meme.R;
-import com.doapps.me.meme.adapters.Adapter_Image;
-import com.doapps.me.meme.adapters.CustomListAdapter;
-import com.doapps.me.meme.beans.Meme_DTO;
-import com.doapps.me.meme.dialogs.Dialog_Rate;
+import me.doapps.imagenes.anio.nuevo.R;
+import me.doapps.imagenes.anio.nuevo.adapters.Adapter_Image;
+import me.doapps.imagenes.anio.nuevo.beans.Meme_DTO;
+import me.doapps.imagenes.anio.nuevo.dialogs.Dialog_Rate;
 import com.nirhart.parallaxscroll.views.ParallaxListView;
 import com.parse.FindCallback;
 import com.parse.ParseException;
